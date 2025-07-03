@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtlegaPayroll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f1a73aa27681fbba9ff7177b20bab6da658a3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31602d4cdcd770749fe9b33e9303dd136fff9b64")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtlegaPayroll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtlegaPayroll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
